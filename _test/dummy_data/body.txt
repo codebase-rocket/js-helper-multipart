@@ -1,0 +1,12 @@
+trash
+----------------------------991960169154015435472690
+Content-Disposition: form-data; name="fd1"
+
+qwerty
+----------------------------991960169154015435472690
+Content-Disposition: form-data; name="fd2"; filename="simple.txt"
+Content-Type: text/plain
+
+line1
+line2
+----------------------------991960169154015435472690--
